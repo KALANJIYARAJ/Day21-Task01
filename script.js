@@ -11,7 +11,7 @@ search.setAttribute("type","text");
 search.setAttribute("id","myInput");
 search.setAttribute("maxlength","4");
 search.addEventListener("keyup",foo);
-search.setAttribute("placeholder","Enter Number Between 1-1330");
+search.setAttribute("placeholder","Enter Number 1 to 1330");
 search.setAttribute("title","type in a name");
 search.setAttribute("year","2022");
 
